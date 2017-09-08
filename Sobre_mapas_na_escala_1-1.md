@@ -26,7 +26,7 @@ Outra alternativa é a *realidade aumentada*, que se mostrou recentemente tão �
 
 [![coretor_RA.jpg](https://s26.postimg.org/3t7ayoqh5/coretor_RA.jpg)](https://postimg.org/image/45yp4v8qt/)
 
-Entretanto, muitos outros problemas envolvendo a escala 1:1 ainda estão por resolver. O teletransporte presente na série **Jornada nas estrelas** contém um problema semelhante, mas muito mais complexo. O teletransporte só será possível, quando pessoas forem escaneadas, copiadas, teletransportadas e reconstruídas no destino por uma impressora 3D na mesma proporção 1:1. Mas, uma vez resolvidos os problemas técnicos, surge outro: o que fazer com os originais? 
+Mas, muitos outros problemas envolvendo a escala 1:1 ainda estão por resolver. O teletransporte presente na série **Jornada nas estrelas** contém um problema semelhante, mas muito mais complexo. O teletransporte só será possível, quando pessoas forem escaneadas, copiadas, teletransportadas e reconstruídas no destino por uma impressora 3D na mesma proporção 1:1. Mas, uma vez resolvidos os problemas técnicos, surge outro: o que fazer com os originais? 
 
 ### Referências: 
 
