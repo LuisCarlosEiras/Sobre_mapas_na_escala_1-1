@@ -1,3 +1,5 @@
+# Sobre mapas na escala 1:1 em Borges e Eco e do que se pode arrumar hoje 
+
 ## Luís Carlos Silva Eiras
 
 Jorge Luís Borges em **Do rigor da ciência** (O Fazedor, 1960) cita um único mapa feito na escala 1:1, mas que foi esquecido pelas novas gerações e destruído pelo tempo: 
