@@ -2,13 +2,13 @@
 
 ## Luís Carlos Silva Eiras
 
-Jorge Luís Borges em **Do rigor da ciência** (O Fazedor, 1960) cita um único mapa feito na escala 1:1, mas que foi esquecido pelas novas gerações e destruído pelo tempo: 
+Jorge Luís Borges, em **Do rigor da ciência** (O Fazedor, 1960), cita um único mapa feito na escala 1:1, mas que foi esquecido pelas novas gerações e destruído pelo tempo: 
 
 *…Naquele império, a arte da cartografia alcançou tamanha perfeição que o mapa de uma única província ocupava uma cidade inteira, e o mapa do império uma província inteira. Com o tempo, estes mapas exagerados não bastaram e os colégios de cartógrafos fizeram um mapa do império que tinha o tamanho do império e coincidia com ele ponto por ponto. Menos dedicadas ao estudo da cartografia, as gerações seguintes decidiram que esse mapa exagerado era inútil e não sem impiedade deixaram-no debaixo do sol e dos invernos. Nos desertos do oeste se perduram despedaçados pedaços desse mapa, agora utilizados por animais e mendigos; em todo o País não há outra reprodução equivalente…” (Suárez Miranda: Viajes de Varones Prudentes, livro quatro, cap. XLV, Lérida, 1658.)*
 
 ### O mapa atômico de Eco 
 
-Já Umberto Eco em **Da impossibilidade de construir a carta do império em escala um por um** (Diário Mínimo, 1992), depois de citar o texto de Borges, duvida – suprema heresia! - de sua veracidade, provando que um mapa assim, atômico, isto é, feito de átomos, é impossível de ser construído como já alerta no título.
+Já Umberto Eco, em **Da impossibilidade de construir a carta do império em escala um por um** (Diário Mínimo, 1992), depois de citar o texto de Borges, duvida – suprema heresia! - de sua veracidade, provando que um mapa assim, atômico, isto é, feito de átomos, é impossível de ser construído como já alerta no título.
 
 O mapa só poderia ser construído sobre o território mapeado, mas, mesmo sendo opaco, provocaria alterações ecológicas no território, de forma que o próprio mapa provocaria alterações naquilo que retrata – algo que certamente poderia agradar Heisenberg -, mas que o torna fonte de sua própria imprecisão. 
 
