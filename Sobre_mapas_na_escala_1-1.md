@@ -43,3 +43,5 @@ https://www.youtube.com/embed/zwDA3GmcwJU
 O local do coreto, segundo o Google Maps: 
 
 https://www.google.com/maps/@-19.9317855,-43.9383073,339m/data=!3m1!1e3?hl=pt-BR
+
+Para a realidade aumentada foi utilizado o aplicativo **O mundo ao meu redor**, disponível no Play Store.
