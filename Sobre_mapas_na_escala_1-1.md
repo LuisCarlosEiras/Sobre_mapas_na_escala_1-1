@@ -22,6 +22,7 @@ Entretanto, caso se substitua as exigências atômicas de Eco por bits, o mapa n
 
 [![zoomcoreto.jpg](https://s20.postimg.org/so7vvf5p9/zoomcoreto.jpg)](https://postimg.org/image/9vw0ru9ax/)
 
+
 Outra alternativa é a *realidade aumentada*, que se mostrou recentemente tão útil para caçar pokémons.  Possui o inconveniente de só poder ser utilizada, quando se está no local que se procura.  Então para que serve um mapa assim? A resposta é simples: para se sair desse local. A realidade aumentada é de certa forma um anti-mapa: não é para ser usada para se achar um local como, se pressupõe, seja a função de todos os mapas, mas para se mandar desse local. Entretanto, o visor da câmera garante a escala 1:1. 
 
 [![coretor_RA.jpg](https://s26.postimg.org/3t7ayoqh5/coretor_RA.jpg)](https://postimg.org/image/45yp4v8qt/)
