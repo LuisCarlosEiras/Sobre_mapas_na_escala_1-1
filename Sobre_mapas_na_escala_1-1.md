@@ -20,7 +20,7 @@ Por fim, o paradoxo Russell-Frege. Por definição, todo mapa não reproduz a si
 
 Entretanto, caso se substitua as exigências atômicas de Eco por bits, o mapa na proporção 1:1 tem suas esperanças renovadas e conseguido notáveis progressos.  A solução mais popular é a do Google Maps. Por exemplo, o coreto da Praça da Liberdade, em Belo Horizonte, na versão satélite. Com ajuda do mouse pode-se fazer sucessivos zooms e, então, arrastando e soltando o Pegman (o homenzinho amarelo do Street Views) sobre o coreto, obtém-se a imagem virtual na escala 1:1.  
 
-[![zoomcoreto.jpg](https://s20.postimg.org/so7vvf5p9/zoomcoreto.jpg)](https://s20.postimg.org/so7vvf5p9/zoomcoreto.jpg)
+[![zoomcoreto.jpg](https://s20.postimg.org/so7vvf5p9/zoomcoreto.jpg)](https://postimg.org/image/9vw0ru9ax/)
 
 Outra alternativa é a *realidade aumentada*, que se mostrou recentemente tão útil para caçar pokémons.  Possui o inconveniente de só poder ser utilizada, quando se está no local que se procura.  Então para que serve um mapa assim? A resposta é simples: para se sair desse local. A realidade aumentada é de certa forma um anti-mapa: não é para ser usada para se achar um local como, se pressupõe, seja a função de todos os mapas, mas para se mandar desse local. Entretanto, o visor da câmera garante a escala 1:1. 
 
