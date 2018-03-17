@@ -14,7 +14,7 @@ O mapa só poderia ser construído sobre o território mapeado, mas, mesmo sendo
 
 Caso fossem representados, os súditos jamais poderiam ver o mapa ao mesmo tempo completo e preciso, pois, para vê-lo, teriam que sair do império e olhar o mapa por cima. E aí se veriam no mapa, quando na verdade já não estavam lá.
 
-Por fim, o paradoxo Russell-Frege. Por definição, todo mapa não reproduz a si próprio. Mas, considerando uma construção desse tamanho, o mapa na proporção 1:1 seria incompleto se não representasse. Para isso seria necessária a construção de um segundo mapa sobre o primeiro, e um terceiro mapa sobre o segundo e, assim, sucessivamente – uma recursão. 
+Por fim, o paradoxo Russell-Frege. Por definição, todo mapa não reproduz a si próprio. Mas, considerando uma construção desse tamanho, o mapa na proporção 1:1 seria incompleto se não se representasse. Para isso seria necessária a construção de um segundo mapa sobre o primeiro, e um terceiro mapa sobre o segundo e, assim, sucessivamente – uma recursão. 
 
 ### O que se pode arrumar: o mapa de bits
 
