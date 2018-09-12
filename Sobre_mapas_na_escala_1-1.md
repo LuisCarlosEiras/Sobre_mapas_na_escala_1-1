@@ -20,11 +20,11 @@ Por fim, o paradoxo Russell-Frege. Por definição, todo mapa não reproduz a si
 
 Entretanto, caso se substitua as exigências atômicas de Eco por bits, o mapa na proporção 1:1 tem suas esperanças renovadas e conseguido notáveis progressos.  A solução mais popular é a do Google Maps. Por exemplo, o coreto da Praça da Liberdade, em Belo Horizonte, na versão satélite. Com ajuda do mouse pode-se fazer sucessivos zooms e, então, arrastando e soltando o Pegman (o homenzinho amarelo do Street Views) sobre o coreto, obtém-se a imagem virtual na escala 1:1.  
 
-[![zoomcoreto.jpg](https://s20.postimg.org/so7vvf5p9/zoomcoreto.jpg)](https://postimg.org/image/9vw0ru9ax/)
+[![zoomcoreto.jpg](https://s20.postimg.cc/so7vvf5p9/zoomcoreto.jpg)](https://postimg.cc/image/9vw0ru9ax/)
 
 Outra alternativa é a *realidade aumentada*, que se mostrou recentemente tão útil para caçar pokémons.  Possui o inconveniente de só poder ser utilizada, quando se está no local que se procura.  Então para que serve um mapa assim? A resposta é simples: para se sair desse local. A realidade aumentada é de certa forma um anti-mapa: não é para ser usada para se achar um local como, se pressupõe, seja a função de todos os mapas, mas para se mandar desse local. Entretanto, o visor da câmera garante a escala 1:1. 
 
-[![coretor_RA.jpg](https://s26.postimg.org/3t7ayoqh5/coretor_RA.jpg)](https://postimg.org/image/45yp4v8qt/)
+[![coretor_RA.jpg](https://s26.postimg.cc/3t7ayoqh5/coretor_RA.jpg)](https://postimg.cc/image/45yp4v8qt/)
 
 Mas, muitos outros problemas envolvendo a escala 1:1 ainda estão por resolver. O teletransporte presente na série **Jornada nas estrelas** contém um problema semelhante, mas muito mais complexo. O teletransporte só será possível, quando pessoas forem escaneadas, copiadas, teletransportadas e reconstruídas no destino por uma impressora 3D na mesma proporção 1:1. Mas, uma vez resolvidos os problemas técnicos, surge outro: o que fazer com os originais? 
 
